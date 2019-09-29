@@ -1,0 +1,36 @@
+name: 2019_ci_rbig
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.6
+# Climate model data
+- cdsapi
+# Scientific Python Stack
+- numpy
+- scipy
+- pandas
+- scikit-learn
+- statsmodels
+- scikit-image
+# Data Structures
+- xarray
+- h5py
+- netcdf4
+# Plotting
+- matplotlib
+- cartopy
+- seaborn
+# HPC
+- dask
+# JupyterLab
+- ipykernel
+- ipywidgets
+- tqdm
+# Geospatial Processing
+- geopandas
+- rasterio
+- pip
+- pip:
+  - affine
+  - cdsapi          # Climate Data
