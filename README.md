@@ -3,6 +3,25 @@
 This repository hosts my code for the [2019 Climate informatics conference](https://sites.google.com/view/climateinformatics2019).
 
 
+## Example Experiments
+
+I have included some example experiments in the notebooks folder including the following experiments:
+
+* Global Information Content (TODO)
+* Spatial-Temporal Analysis of variables (TODO)
+* Temporal analysis of Drought Indicators (TODO)
+* Climate Model Comparisons (TODO)
+
+
+## Installation Instructions
+
+You can create the environment from the `.yml` file found in the main repo.
+
+```python
+conda env create -f environment.yml -n myenv
+source activate myenv
+```
+
 ## External Toolboxes
 
 **RBIG (Rotation-Based Iterative Gaussianization)**
@@ -23,25 +42,6 @@ This is sponsered by the [earthsystemdatalab](https://www.earthsystemdatalab.net
 **Climate Data Store**
 
 This is a database of climate models implemented by the ECMWF and sponsored by the Copernicus program. I use a few climate models from here by using the CDSAPI. There are some [additional instructions](https://cds.climate.copernicus.eu/api-how-to) to install this package which requires registration and agreeing to some terms of use for each dataset.
-
-## Example Experiments
-
-I have included some example experiments in the notebooks folder including the following experiments:
-
-* Global Information Content (TODO)
-* Spatial-Temporal Analysis of variables (TODO)
-* Temporal analysis of Drought Indicators (TODO)
-* Climate Model Comparisons (TODO)
-
-
-## Installation Instructions
-
-You can create the environment from the `.yml` file found in the main repo.
-
-```python
-conda env create -f environment.yml -n myenv
-source activate myenv
-```
 
 ## Contact Information
 
