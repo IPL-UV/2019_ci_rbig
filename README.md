@@ -3,7 +3,7 @@
 This repository hosts my code for the [2019 Climate informatics conference](https://sites.google.com/view/climateinformatics2019).
 
 
-### External Toolboxes
+## External Toolboxes
 
 **RBIG (Rotation-Based Iterative Gaussianization)**
 
@@ -14,7 +14,7 @@ This is a package I created to implement the RBIG algorithm. This is a multivari
 These are a collection of useful scripts when dealing with datacubes (datasets in xarray `Dataset` format). I used a few preprocessing methods as well as a `Minicuber` implementation which transforms the data into spatial and/or temporal features. More information can be found in the repository [`py_rbig`](https://github.com/IPL-UV/esdc_tools).
 
 
-### Data Resources
+## Data Resources
 
 **Earth System Data Lab**
 
