@@ -47,7 +47,7 @@ This is a database of climate models implemented by the ECMWF and sponsored by t
 
 Links to my co-authors' and my information:
 
-* J. Emmanuel Johnson - [Website](jejjohnson.netlify.com) | [Scholar](https://scholar.google.com/citations?user=h-wdX7gAAAAJ&hl=es) | [Twitter](https://twitter.com/jejjohnson) | [Github]() 
+* J. Emmanuel Johnson - [Website](https://jejjohnson.netlify.com) | [Scholar](https://scholar.google.com/citations?user=h-wdX7gAAAAJ&hl=es) | [Twitter](https://twitter.com/jejjohnson) | [Github](https://github.com/jejjohnson) 
 * Maria Piles - [Website](https://sites.google.com/site/mariapiles/) | [Scholar](https://scholar.google.com/citations?hl=es&user=KTva-HMAAAAJ) | [Twitter](https://twitter.com/Maria_Piles)
 * Valero Laparra - [Website](https://www.uv.es/lapeva/) | [Scholar](https://scholar.google.com/citations?user=dNt_xikAAAAJ&hl=es)
 * Gustau Camps-Valls - [Website](https://www.uv.es/gcamps/) | [Scholar](https://scholar.google.com/citations?user=6mgnauMAAAAJ&hl=es) | [Twitter](https://twitter.com/isp_uv_es)
